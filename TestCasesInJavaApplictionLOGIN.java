@@ -58,7 +58,7 @@ public class TestCasesInJavaApplictionLOGIN
 			String TC_01_34 = "TC-01.34";
 			//String TC_01_35 = "TC-01.35";
 		//	String TC_01_36 = "TC-01.36";
-
+//lll the change for the GItHub :)
 			String htmlTitle = "Welcome to Sign Up";
 			String signUpTitle = "Sign Up";
 			// String dynamicTextQuote = "SOME QUOTE";
