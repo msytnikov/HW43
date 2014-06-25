@@ -56,7 +56,7 @@ public class TestCasesInJavaApplictionLOGIN
 			String TC_01_32 = "TC-01.32";
 			String TC_01_33 = "TC-01.33";
 			String TC_01_34 = "TC-01.34";
-			String TC_01_35 = "TC-01.35";
+			//String TC_01_35 = "TC-01.35";
 		//	String TC_01_36 = "TC-01.36";
 
 			String htmlTitle = "Welcome to Sign Up";
